@@ -1,0 +1,61 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Spark Logs
+
+spark-warehouse/
+metastore_db/
+
+# Environment Variables
+
+.env
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# System Files
+
+.DS_Store
+Thumbs.db
+
+# Log Files
+
+*.log
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Output Files
+
+output/
+results/
+
+# Large Data Files (Optional)
+
+*.parquet
+
+# Python Packaging
+
+build/
+dist/
+*.egg-info/
